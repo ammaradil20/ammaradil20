@@ -14,7 +14,7 @@ I'm passionate about building **intuitive and user-friendly** digital experience
 
 ## 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ammaradil20&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ammaradil20&layout=compact&theme=tokyonight)  
 
 ## 📫 Let's Connect  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ammar-adil-33663122b)  
