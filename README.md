@@ -13,7 +13,7 @@ I'm passionate about building **intuitive and user-friendly** digital experience
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
 
 ## 📊 GitHub Stats  
-![GitHub Stats](ammaradil20)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ammaradil20&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)  
 
 ## 📫 Let's Connect  
