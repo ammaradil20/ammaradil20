@@ -19,7 +19,7 @@ I'm passionate about building **intuitive and user-friendly** digital experience
 
 ## 📫 Let's Connect  
 [![X (Twitter)](https://img.shields.io/badge/X-000?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/okayadilll)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ammaradil20) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/okayadil) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)  
 
 💡 **Open to opportunities** in **software development** and **AI**!  
