@@ -18,7 +18,7 @@ I'm passionate about building **intuitive and user-friendly** digital experience
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ammaradil20&layout=compact&theme=tokyonight)  
 
 ## 📫 Let's Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ammar-adil-33663122b)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ammaradil20) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)  
 
 💡 **Open to opportunities** in **software development** and **AI**!  
